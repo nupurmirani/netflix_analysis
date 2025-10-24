@@ -1,6 +1,6 @@
 
 
-The dataset contains the following columns:
+The dataset of netflix dataset contains the following columns:
 
 Column	Description
 show_id	: Unique identifier for each show or movie
